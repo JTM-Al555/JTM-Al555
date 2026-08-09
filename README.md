@@ -89,4 +89,4 @@ Short technical description.
 
 ## Connect
 
-[GitHub](https://github.com/JTM-Al555) · · [Medium]([YOUR-MEDIU](https://medium.com/@jassimtalal.atlas)
+[GitHub](https://github.com/JTM-Al555) · · [Medium](https://medium.com/@jassimtalal.atlas)
