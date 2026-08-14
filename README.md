@@ -69,10 +69,10 @@ I document selected penetration-testing labs and security assessments, focusing 
 Reconnaissance and attack-surface mapping framework.
 
 ### Project 2
-Short technical description.
+ SOON
 
 ### Project 3
-Short technical description.
+ SOON
 
 ---
 
